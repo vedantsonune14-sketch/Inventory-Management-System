@@ -1,2 +1,1 @@
-# Inventory-Management-System
-Inventory management web app built with Flask, SQLite and vanilla JavaScript (CRUD + low-stock alerts)
+   Full-stack Inventory Management System with HTML/CSS/JavaScript frontend, Flask REST API and SQLite database. Add, search, update and delete products with low-stock alerts.
